@@ -1,0 +1,41 @@
+
+
+
+body {
+    background-color:orangered;
+    background-image: url(../image/Dining\ Background.jpeg);
+
+    height: 100vh;
+    font-size: 1.2em;
+  }
+  
+  .title {
+    color: white;
+  }
+  
+  .burger-img {
+    width: 20%;
+    height: 20%;
+  }
+  
+  #right-col {
+    font-size: 0.9em;
+    font-style: italic;
+    opacity: 0.75;
+  }
+
+  .display-5 {
+    color:white;
+    background-color: black;
+    font-size: xx-large;
+  }
+
+  .mb-1 {
+    color: black;
+    background-color: yellowgreen;
+  }
+
+  .btn {
+    color: black;
+    background-color: yellow;
+  }
